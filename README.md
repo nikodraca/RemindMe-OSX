@@ -16,5 +16,11 @@ Set reminders from iMessage (OSX only)
 
 6) Close Preferences
 
+#How to use
+
+Type "RemindMe!" followed by your reminder
+
+
+
 Have fun and make sure to fork!
 
