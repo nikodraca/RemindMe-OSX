@@ -3,7 +3,7 @@ Set reminders from iMessage (OSX only)
 
 ![alt tag](http://i.giphy.com/QBPxgbgoCX2sE.gif)
 
-#How to install
+## How to install
 1) Download Zip
 
 2) Open Messages > Preferences > AppleScript Handler > Open Scripts Folder
@@ -16,7 +16,7 @@ Set reminders from iMessage (OSX only)
 
 6) Close Preferences
 
-#How to use
+## How to use
 
 Type "RemindMe!" followed by your reminder
 
